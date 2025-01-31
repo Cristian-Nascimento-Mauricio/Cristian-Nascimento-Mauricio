@@ -22,9 +22,7 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{cristiannascimentomauricio@gmail.com})
-[![Linkedin: Cristian Nascimento Maurício](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/cristian-nascimento-mauricio/)
-
-![Cristian Nascimento Maurício GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=radical)
+[![Gmail Badge](https://img.shields.io/badge/-{cristiannascimentomauricio@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{cristiannascimentomauricio@gmail.com})](mailto:{cristiannascimentomauricio@gmail.com})
+[![Linkedin: Cristian Nascimento Maurício](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/devellenias/](https://www.linkedin.com/in/cristian-nascimento-mauricio/))](https://www.linkedin.com/in/cristian-nascimento-mauricio/)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
