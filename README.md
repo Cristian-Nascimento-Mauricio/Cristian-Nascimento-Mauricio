@@ -4,12 +4,21 @@
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
 </p><br><br>
 
+-  Linguagens de Programação: 
 
-## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c)](https://skillicons.dev)<br><br>
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,c,python)](https://skillicons.dev)
+- Frameworks e Bibliotecas: 
 
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,bootstrap,git,github)](https://skillicons.dev)<br><br>
+    [![My Skills](https://skillicons.dev/icons?i=spring,react,angular)](https://skillicons.dev)
+- Dados: 
+
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
+- Desenvolvimento Web:
+
+    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
 
 ## 📫 Contato
 
